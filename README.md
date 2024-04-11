@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Lucas Ellong Kotto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">I'm a France based Data enthusiast dedicated to helping companies leverage insights from data. </h4>
+<h4 align="center">I'm a France-based Data enthusiast dedicated to helping companies leverage insights from data. </h4>
 
 ## 🛠️ My Stack
 
